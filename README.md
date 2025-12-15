@@ -1,16 +1,20 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**yar2slav/yar2slav** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+```  
+                                 _               
+                                | |              
+ _   _   __ _  _ __   ___   ___ | |  __ _ __   __
+| | | | / _` || '__| / _ \ / __|| | / _` |\ \ / /
+| |_| || (_| || |   | (_) |\__ \| || (_| | \ V / 
+ \__, | \__,_||_|    \___/ |___/|_| \__,_|  \_/  
+  __/ |                                          
+ |___/                                           
 
-Here are some ideas to get you started:
+```
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+```text
+                                               tg:  yar2slav
+                                               dc:  1011810224614686801
+                                               web: www.r4pe.us
+```
