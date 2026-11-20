@@ -1,12 +1,7 @@
 <p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="assets/banner-dark.png">
-    <img src="assets/banner-light.png" width="100%" alt="yar2slav">
-  </picture>
-</p>
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=20&duration=2600&pause=1400&color=8E8E93&center=true&vCenter=true&width=620&lines=building+mad%2C+a+telegram+client;peer+it%2C+a+bot+that+grabs+music+and+videos;bots%2C+apis+and+other+telegram+stuff" alt="building mad, a telegram client">
+  <a href="https://slava.social/">
+    <img src="https://slava.social/api/readme-card.png" width="100%" alt="yar2slav, listening right now on spotify">
+  </a>
 </p>
 
 <p align="center">
@@ -53,21 +48,34 @@ my telegram client for iphone, windows and mac. ghost mode, deleted messages tha
 
 ## stack
 
-<p align="center"><b>main</b></p>
+<p align="center"><b>languages</b></p>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=py,react,ts,nodejs&theme=dark" alt="python, react, typescript, node.js">
+  <img src="https://skillicons.dev/icons?i=py,ts&theme=dark" alt="python, typescript">
 </p>
 
-<p align="center"><b>also</b></p>
+<p align="center"><b>frontend</b></p>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=swift,rust,tauri,cpp,vite&theme=dark" alt="swift, rust, tauri, c++, vite">
+  <img src="assets/stack-frontend.svg" alt="react, next.js, tailwind, radix ui, electron">
+</p>
+
+<p align="center"><b>backend</b></p>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=nodejs,bun,deno,express,fastapi,flask&theme=dark" alt="node.js, bun, deno, express, fastapi, flask">
+</p>
+
+<p align="center"><b>data</b></p>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=postgres,redis,sqlite,mongodb,prisma,supabase&theme=dark" alt="postgresql, redis, sqlite, mongodb, prisma, supabase">
 </p>
 
 <p align="center"><b>infra</b></p>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=aws,vercel,supabase,docker,postgres,redis&theme=dark" alt="aws, vercel, supabase, docker, postgresql, redis">
-  <br>
-  <img src="https://skillicons.dev/icons?i=nginx,cloudflare,linux,githubactions&theme=dark" alt="nginx, cloudflare, linux, github actions">
+  <img src="https://skillicons.dev/icons?i=aws,vercel,cloudflare,docker,nginx,linux,githubactions&theme=dark" alt="aws, vercel, cloudflare, docker, nginx, linux, github actions">
+</p>
+
+<p align="center"><b>tools</b></p>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=vite,vitest,pnpm,npm,git,bash&theme=dark" alt="vite, vitest, pnpm, npm, git, bash">
 </p>
 
 <p align="center">
